@@ -1,3 +1,22 @@
+# Tic Tac Toe ❌⭕️
+
+A simple Tic Tac Toe game built with React + TypeScript.
+
+## Features
+- Two-player gameplay (X and O)
+- Turn-based play
+- Winner detection
+- Draw detection
+- Move validation
+- Move history tracking
+- Jump to previous moves
+- Game status display
+
+## Tech Stack
+- React
+- TypeScript
+- Vite
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
